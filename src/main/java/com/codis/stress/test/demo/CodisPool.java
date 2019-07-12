@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Configuration;
 import redis.clients.jedis.JedisPoolConfig;
 
 /**
- * @author guifei.qin
+ * @author CleverApe
  * @Classname CodisPoll
  * @Description TODO
  * @Date 2019-05-24 14:40

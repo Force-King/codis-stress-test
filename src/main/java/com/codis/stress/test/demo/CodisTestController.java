@@ -13,7 +13,7 @@ import redis.clients.jedis.JedisPool;
 import java.util.concurrent.ThreadLocalRandom;
 
 /**
- * @author guifei.qin
+ * @author CleverApe
  * @Classname CodisTestController
  * @Description Codis 压力测试入口
  * @Date 2019-05-24 14:43

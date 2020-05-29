@@ -76,8 +76,6 @@ public class CodisTestController {
         json.put("name","张三");
         json.put("sex","男");
         json.put("age","20");
-        json.put("phone","15066668888");
-        json.put("idcard","130125199501243978");
         json.put("desc","Codis压力测试");
         String value = json.toJSONString();
         try (Jedis jedis = jedisPool.getResource()) {

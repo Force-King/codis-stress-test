@@ -58,7 +58,7 @@
 			<appender-ref ref="Console"/> 
 		</root> 
 		<!-- 框架运行中涉及到的日志 -->
-        <logger name="com.br.codis-test" additivity="true">
+        <logger name="com.codis.stress" additivity="true">
             <appender-ref ref="codis-test-info"/>
             <appender-ref ref="codis-test-error"/>
             <appender-ref ref="codis-test-debug"/>
